@@ -1,7 +1,14 @@
 #include <iostream>
 
 using namespace std;
+/*
+Integrantes:
+Trujillo, David
+Castillo, Darío Alberto
+Gómez Neimann, Francisco
+falta fede
 
+*/
 // Clase Fruta
 class CajonFruta {
 private:
